@@ -7,6 +7,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmoud-Shoura&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahmoud-Shoura&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahmoud-Shoura&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahmoud-Shoura&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahmoud-Shoura&theme=gotham&utcOffset=10)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mahmoud-shoura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mahmoud-shoura" height="30" width="40" /></a>
