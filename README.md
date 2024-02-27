@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-shoura&label=Profile%20views&color=0e75b6&style=flat-square" alt="mahmoud-shoura" /> </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmoud-Shoura&theme=gotham)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mahmoud-shoura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mahmoud-shoura" height="30" width="40" /></a>
